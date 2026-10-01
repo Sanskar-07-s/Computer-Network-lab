@@ -1,0 +1,39 @@
+# Binaries and executables
+*.exe
+*.out
+*.app
+*.bin
+
+# Object files and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Do NOT ignore source and experiment files
+!*.cpp
+!*.c
+!*.h
+!*.md
+!*.pkt
+!*.docx
+!*.pdf
